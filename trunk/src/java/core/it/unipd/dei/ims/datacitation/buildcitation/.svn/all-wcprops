@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation
+END
+PathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation/PathMatcher.java
+END
+CitableUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation/CitableUnit.java
+END
+WeightedCitableUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation/WeightedCitableUnit.java
+END
+ReferenceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation/ReferenceBuilder.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/buildcitation/Reference.java
+END

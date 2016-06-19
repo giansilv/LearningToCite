@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/datacitation/!svn/ver/1/resources
+END
+dataCitation-recall.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/datacitation/!svn/ver/6/resources/dataCitation-recall.properties
+END
+dataCitation-best-shallow.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/datacitation/!svn/ver/2/resources/dataCitation-best-shallow.properties
+END
+dataCitation-exact.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/datacitation/!svn/ver/2/resources/dataCitation-exact.properties
+END
+citationTree-precision.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/datacitation/!svn/ver/6/resources/citationTree-precision.xml
+END
+dataCitation-mixed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/datacitation/!svn/ver/2/resources/dataCitation-mixed.properties
+END
+getLeavesPath.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/datacitation/!svn/ver/2/resources/getLeavesPath.xslt
+END
+citationTree-fscore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/datacitation/!svn/ver/6/resources/citationTree-fscore.xml
+END
+dataCitation-precision.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/datacitation/!svn/ver/6/resources/dataCitation-precision.properties
+END
+citationTree-recall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/datacitation/!svn/ver/6/resources/citationTree-recall.xml
+END
+citationTree-best-shallow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/datacitation/!svn/ver/2/resources/citationTree-best-shallow.xml
+END
+citationTree-exact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/datacitation/!svn/ver/6/resources/citationTree-exact.xml
+END
+citationTree-mixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/datacitation/!svn/ver/2/resources/citationTree-mixed.xml
+END
+dataCitation-fscore.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/datacitation/!svn/ver/6/resources/dataCitation-fscore.properties
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/citationprocessing
+END
+PathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/citationprocessing/PathFinder.java
+END
+BuildCitationTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/citationprocessing/BuildCitationTree.java
+END
+ResultPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/citationprocessing/ResultPair.java
+END
+PathProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/citationprocessing/PathProcessor.java
+END

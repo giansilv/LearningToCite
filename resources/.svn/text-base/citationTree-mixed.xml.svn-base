@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cite-tree>
+    <!--data citation auto-create-->
+    <ead avg-score="0" frequency="0" type="element">
+        <eadheader avg-score="0" frequency="0" type="element">
+            <eadid avg-score="1.0" frequency="24.0" type="element"/>
+            <filedesc avg-score="0" frequency="0" type="element">
+                <publicationstmt avg-score="0" frequency="0" type="element">
+                    <publisher avg-score="0.9518053988743946" frequency="24.0" type="element">
+                        <extptr avg-score="0.9518053988743946" frequency="24.0" type="element"/>
+                    </publisher>
+                </publicationstmt>
+                <titlestmt avg-score="0" frequency="0" type="element">
+                    <titleproper avg-score="0.9220983986854653" frequency="22.0" type="element"/>
+                <subtitle avg-score="0" frequency="0" type="element">
+                        <num avg-score="0.8580212027598698" frequency="4.0" type="element"/>
+                    </subtitle>
+                </titlestmt>
+            </filedesc>
+        </eadheader>
+        <archdesc avg-score="0" frequency="0" type="element">
+            <descgrp avg-score="0" frequency="0" type="element">
+                <prefercite avg-score="0" frequency="0" type="element">
+                    <p avg-score="0.6307806400177304" frequency="27.0" type="element"/>
+                </prefercite>
+            <separatedmaterial avg-score="0" frequency="0" type="element">
+                    <p avg-score="0.4984730654793261" frequency="5.0" type="element"/>
+                </separatedmaterial>
+            <acqinfo avg-score="0" frequency="0" type="element">
+                    <p avg-score="0.4339362855490499" frequency="2.0" type="element"/>
+                </acqinfo>
+            <userestrict avg-score="0" frequency="0" type="element">
+                    <p avg-score="0.5932312266435595" frequency="3.0" type="element"/>
+                </userestrict>
+            <head avg-score="1.0" frequency="1" type="element"/>
+                <accessrestrict avg-score="0" frequency="0" type="element">
+                    <head avg-score="1.0" frequency="1" type="element"/>
+                </accessrestrict>
+            </descgrp>
+            <did avg-score="0" frequency="0" type="element">
+                <unittitle avg-score="0.8820114829784682" frequency="22.0" type="element">
+                    <unitdate avg-score="0.9035285264580826" frequency="35.0" type="element"/>
+                </unittitle>
+                <abstract avg-score="0.32799319972666613" frequency="3.0" type="element"/>
+            <unitid avg-score="0.9188692587199255" frequency="7.0" type="element"/>
+            <head avg-score="1.0" frequency="1" type="element"/>
+            <physdesc avg-score="0" frequency="0" type="element">
+                    <extent avg-score="0.41426560680238356" frequency="2.0" type="element"/>
+                </physdesc>
+            </did>
+            <scopecontent avg-score="0" frequency="0" type="element">
+                <p avg-score="0.43459690691287667" frequency="31.0" type="element">
+                    <ref avg-score="0.6146159352265139" frequency="19.0" type="element"/>
+                <table avg-score="0.42530582981583853" frequency="1" type="element">
+                        <tgroup avg-score="0" frequency="0" type="element">
+                            <tbody avg-score="0" frequency="0" type="element">
+                                <row avg-score="0" frequency="0" type="element">
+                                    <entry avg-score="1.0" frequency="1" type="element"/>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                <title avg-score="0.4210778234098579" frequency="8.0" type="element"/>
+                <archref avg-score="0.6445616116350935" frequency="1" type="element"/>
+                    <corpname avg-score="0.5137565661619121" frequency="5.0" type="element"/>
+                    <persname avg-score="0.3562157767365658" frequency="5.0" type="element"/>
+                <geogname avg-score="0.39143444617870254" frequency="3.0" type="element"/>
+                </p>
+            </scopecontent>
+            <dsc avg-score="0" frequency="0" type="element">
+                <c01 avg-score="0" frequency="0" type="element">
+                    <did avg-score="0" frequency="0" type="element">
+                        <unittitle avg-score="0.9452952281178519" frequency="9.0" type="element">
+                            <unitdate avg-score="0.9264148324582315" frequency="17.0" type="element"/>
+                        </unittitle>
+                        <container avg-score="0.8400755557063562" frequency="6.0" type="element">
+                            <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                        </container>
+                    </did>
+                    <c02 avg-score="0" frequency="0" type="element">
+                        <did avg-score="0" frequency="0" type="element">
+                            <unittitle avg-score="0.8178944041126038" frequency="13.0" type="element">
+                                <unitdate avg-score="0.9518237756772344" frequency="6.0" type="element"/>
+                            <title avg-score="0.6018848786530209" frequency="2.0" type="element"/>
+                            <emph avg-score="1.0" frequency="2.0" type="element"/>
+                            </unittitle>
+                            <container avg-score="0.8444604100093926" frequency="5.0" type="element">
+                                <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                            </container>
+                        </did>
+                        <c03 avg-score="0" frequency="0" type="element">
+                            <did avg-score="0" frequency="0" type="element">
+                                <unittitle avg-score="0.821196344075784" frequency="15.0" type="element">
+                                    <unitdate avg-score="0.8405678064057832" frequency="6.0" type="element"/>
+                                <title avg-score="0.9602525677891275" frequency="1" type="element"/>
+                                <ref avg-score="0.6258750499695162" frequency="1" type="element"/>
+                                </unittitle>
+                                <container avg-score="0.8623827844437866" frequency="6.0" type="element">
+                                    <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                                </container>
+                            <physdesc avg-score="0" frequency="0" type="element">
+                                    <extent avg-score="0.2789429456511298" frequency="1" type="element"/>
+                                </physdesc>
+                            </did>
+                            <c04 avg-score="0" frequency="0" type="element">
+                                <did avg-score="0" frequency="0" type="element">
+                                    <unittitle avg-score="0.6874646321448503" frequency="13.0" type="element">
+                                        <ref avg-score="0.7516061646521115" frequency="5.0" type="element">
+                                            <emph avg-score="0.7906890595608518" frequency="4.0" type="element"/>
+                                        </ref>
+                                    </unittitle>
+                                    <container avg-score="1.0" frequency="2.0" type="element">
+                                        <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                                    </container>
+                                </did>
+                                <c05 avg-score="0" frequency="0" type="element">
+                                    <did avg-score="0" frequency="0" type="element">
+                                        <unittitle avg-score="0.5256767370232683" frequency="4.0" type="element"/>
+                                        <container avg-score="0" frequency="0" type="element">
+                                            <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                                        </container>
+                                    </did>
+                                    <c06 avg-score="0" frequency="0" type="element">
+                                        <did avg-score="0" frequency="0" type="element">
+                                            <unittitle avg-score="0.3842508444502874" frequency="5.0" type="element"/>
+                                            <container avg-score="0" frequency="0" type="element">
+                                                <type avg-score="1.0" frequency="14.0" type="attribute"/>
+                                            </container>
+                                        </did>
+                                        <c07 avg-score="0" frequency="0" type="element">
+                                            <did avg-score="0" frequency="0" type="element">
+                                                <container avg-score="0" frequency="0" type="element">
+                                                    <type avg-score="1.0" frequency="11.0" type="attribute"/>
+                                                </container>
+                                            <physdesc avg-score="0" frequency="0" type="element">
+                                                    <extent avg-score="0.2789429456511298" frequency="1" type="element"/>
+                                                </physdesc>
+                                            </did>
+                                        <c08 avg-score="0" frequency="0" type="element">
+                                                <did avg-score="0" frequency="0" type="element">
+                                                    <container avg-score="0" frequency="0" type="element">
+                                                        <type avg-score="1.0" frequency="7.0" type="attribute"/>
+                                                    </container>
+                                                </did>
+                                            </c08>
+                                        </c07>
+                                    </c06>
+                                </c05>
+                            </c04>
+                            <scopecontent avg-score="0" frequency="0" type="element">
+                                <p avg-score="0.49596677845261156" frequency="5.0" type="element"/>
+                            </scopecontent>
+                            <arrangement avg-score="0" frequency="0" type="element">
+                                <p avg-score="0.5138691102804285" frequency="4.0" type="element"/>
+                            </arrangement>
+                        </c03>
+                        <scopecontent avg-score="0" frequency="0" type="element">
+                            <p avg-score="0.4321200910265016" frequency="2.0" type="element"/>
+                        </scopecontent>
+                    </c02>
+                <scopecontent avg-score="0" frequency="0" type="element">
+                        <p avg-score="0.43045969185092364" frequency="3.0" type="element">
+                            <ref avg-score="0.5368955786357438" frequency="1" type="element"/>
+                        </p>
+                    </scopecontent>
+                <arrangement avg-score="0" frequency="0" type="element">
+                        <p avg-score="0.3254589587445453" frequency="1" type="element"/>
+                    </arrangement>
+                </c01>
+                <thead avg-score="0" frequency="0" type="element">
+                    <row avg-score="0" frequency="0" type="element">
+                        <entry avg-score="1.0" frequency="14.0" type="element"/>
+                    </row>
+                </thead>
+            <head avg-score="1.0" frequency="2.0" type="element"/>
+            </dsc>
+            <arrangement avg-score="0" frequency="0" type="element">
+                <list avg-score="0" frequency="0" type="element">
+                    <item avg-score="0" frequency="0" type="element">
+                        <ref avg-score="0.672507758727043" frequency="15.0" type="element"/>
+                    </item>
+                </list>
+            <head avg-score="0.9642630869047908" frequency="1" type="element"/>
+            </arrangement>
+        <prefercite avg-score="0" frequency="0" type="element">
+                <p avg-score="0.6804877024111904" frequency="22.0" type="element"/>
+            </prefercite>
+            <controlaccess avg-score="0" frequency="0" type="element">
+                <controlaccess avg-score="0" frequency="0" type="element">
+                    <subject avg-score="0.6436843583783514" frequency="3.0" type="element"/>
+                    <title avg-score="0.4393096303250101" frequency="1" type="element"/>
+                <persname avg-score="0.9306765580733931" frequency="1" type="element"/>
+                </controlaccess>
+            </controlaccess>
+            <odd avg-score="0" frequency="0" type="element">
+                <table avg-score="0" frequency="0" type="element">
+                    <tgroup avg-score="0" frequency="0" type="element">
+                        <tbody avg-score="0" frequency="0" type="element">
+                            <row avg-score="0" frequency="0" type="element">
+                                <entry avg-score="0.7478862612915045" frequency="7.0" type="element">
+                                    <lb avg-score="0.6217195971344834" frequency="3.0" type="element"/>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            <head avg-score="1.0" frequency="2.0" type="element"/>
+            </odd>
+            <bioghist avg-score="0" frequency="0" type="element">
+                <p avg-score="0.3642217620600321" frequency="1" type="element"/>
+            <head avg-score="0.9960449091931654" frequency="5.0" type="element"/>
+                <bioghist avg-score="0" frequency="0" type="element">
+                    <chronlist avg-score="0" frequency="0" type="element">
+                        <chronitem avg-score="0" frequency="0" type="element">
+                            <event avg-score="0" frequency="0" type="element">
+                                <bibref avg-score="0" frequency="0" type="element">
+                                    <title avg-score="1.0" frequency="1" type="element"/>
+                                </bibref>
+                            </event>
+                            <date avg-score="1.0" frequency="1" type="element"/>
+                        </chronitem>
+                    </chronlist>
+                </bioghist>
+            <chronlist avg-score="0" frequency="0" type="element">
+                    <chronitem avg-score="0" frequency="0" type="element">
+                        <event avg-score="0.9415656476163213" frequency="4.0" type="element">
+                            <corpname avg-score="0.9645064246606975" frequency="1" type="element"/>
+                            <geogname avg-score="0.9175999207018439" frequency="1" type="element"/>
+                        </event>
+                        <date avg-score="0.9885606273598312" frequency="4.0" type="element"/>
+                    </chronitem>
+                </chronlist>
+            </bioghist>
+        </archdesc>
+    </ead>
+</cite-tree>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/datacitation/!svn/ver/1/trunk/src/java/core/it/unipd/dei/ims/datacitation/config
+END
+dataCitation.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/config/dataCitation.properties
+END
+dataCitationCloud.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/config/dataCitationCloud.properties
+END
+InitDataCitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/datacitation/!svn/ver/6/trunk/src/java/core/it/unipd/dei/ims/datacitation/config/InitDataCitation.java
+END
+dataCitationLocal.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/datacitation/!svn/ver/5/trunk/src/java/core/it/unipd/dei/ims/datacitation/config/dataCitationLocal.properties
+END

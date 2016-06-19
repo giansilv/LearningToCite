@@ -1,0 +1,47 @@
+<ead>
+	<eadheader id="ms001024">
+		<eadid>http://hdl.loc.gov/loc.mss/eadmss.ms001024</eadid>
+	    <filedesc>
+          <publicationstmt>
+             <publisher> Manuscript Division, Library of Congress
+             </publisher>
+          </publicationstmt>
+        </filedesc>
+   </eadheader>
+   <archdesc>
+	   <did>
+	   		<unittitle>Huntington Cairns Papers</unittitle>
+	   		<dsc>
+		   		<c01>
+		   			<did>
+		   				<unittitle>Part II: Writings<unitdate>1905-1984</unitdate></unittitle>
+		   				<container type="box">129-152</container>
+		   			</did>
+		   			<c02>
+		   				<did>
+		   					<unittitle>By Cairns</unittitle>
+		   					<container type="box">129</container>
+		   				</did>
+		   				<c03>
+			   				<did>
+			   					<unittitle>Books</unittitle>
+			   					<container type="box">135</container>
+			   				</did>
+			   				<c04>
+				   				<did>
+				   					<unittitle>"The Elements of Legal Theory" (unpublished)</unittitle>
+				   				</did>
+				   				<c05>
+					   				<did>
+					   					<unittitle>Correspondence, 1951-1956</unittitle>
+					   				</did>
+				   				</c05>
+				   			</c04>
+		   				</c03>
+		   			</c02>
+		   		</c01>
+		   		
+	   		</dsc>
+	   </did>
+   </archdesc>
+</ead>

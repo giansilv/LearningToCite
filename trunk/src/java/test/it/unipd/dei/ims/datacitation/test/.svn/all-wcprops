@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/datacitation/!svn/ver/2/trunk/src/java/test/it/unipd/dei/ims/datacitation/test
+END
+TestBuildTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/datacitation/!svn/ver/2/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/TestBuildTree.java
+END
+MeasureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/datacitation/!svn/ver/5/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/MeasureTest.java
+END
+GroundTruthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/datacitation/!svn/ver/5/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/GroundTruthTest.java
+END
+TrainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/datacitation/!svn/ver/2/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/TrainTest.java
+END
+createGTfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/datacitation/!svn/ver/2/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/createGTfile.java
+END
+CreateCitationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/datacitation/!svn/ver/3/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/CreateCitationTest.java
+END
+CreateGTfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/datacitation/!svn/ver/5/trunk/src/java/test/it/unipd/dei/ims/datacitation/test/CreateGTfile.java
+END

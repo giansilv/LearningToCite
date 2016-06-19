@@ -1,0 +1,21 @@
+#Tue Nov 10 17:56:50 CET 2015
+datacitation.citableunit.weightingFunction=FSDN
+datacitation.groundtruth.pathsamples=4
+datacitation.citationtree.build-method=mixed
+datacitation.citationtree.file=resources/citationTree-mixed.xml
+datacitation.bestMatch.minRatio=0.66
+datacitation.groundtruth.file.extension=xml
+datacitation.path.rawFiles=/Users/silvello/Documents/EAD_collections/LoC2014
+datacitation.path.trainingset=/Users/silvello/Documents/EAD_collections/LoC2014_trainingSet
+datacitation.trainingset.size=-1
+datacitation.citation.separator=&&
+datacitation.groundtruth.filesamples=50
+datacitation.path.groundtruth.xslt.leafPaths=/Users/silvello/Documents/Software_projects/datacitation/resources/getLeavesPath.xslt
+datacitation.path.trainingFolder=/Users/silvello/Documents/Software_projects/datacitation/trainingTmp/
+datacitation.training.folds=5
+datacitation.citableunit.scoreThreshold=0.8
+datacitation.path.trainingreferences=/Users/silvello/Documents/EAD_collections/LoC2014_trainingReferences
+basex.dbname=XMLDB
+datacitation.citationtree.root=cite-tree
+datacitation.path.groundtruth.file=/Users/silvello/Documents/EAD_collections/LoC2014_groundTruth.txt
+datacitation.path.groundtruth=/Users/silvello/Documents/EAD_collections/LoC2014_groundTruth

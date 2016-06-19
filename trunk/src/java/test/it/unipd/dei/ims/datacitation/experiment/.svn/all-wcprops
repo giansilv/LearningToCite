@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/datacitation/!svn/ver/4/trunk/src/java/test/it/unipd/dei/ims/datacitation/experiment
+END
+TestSetWithRepetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/datacitation/!svn/ver/6/trunk/src/java/test/it/unipd/dei/ims/datacitation/experiment/TestSetWithRepetition.java
+END
+GetValidationParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/datacitation/!svn/ver/5/trunk/src/java/test/it/unipd/dei/ims/datacitation/experiment/GetValidationParameters.java
+END

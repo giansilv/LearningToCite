@@ -1,0 +1,12 @@
+it.unipd.dei.ims.basex
+it.unipd.dei.ims.datacitation.basex
+it.unipd.dei.ims.datacitation.buildcitation
+it.unipd.dei.ims.datacitation.citationprocessing
+it.unipd.dei.ims.datacitation.citationtree
+it.unipd.dei.ims.datacitation.config
+it.unipd.dei.ims.datacitation.evaluation
+it.unipd.dei.ims.datacitation.experiment
+it.unipd.dei.ims.datacitation.groundtruth
+it.unipd.dei.ims.datacitation.parser
+it.unipd.dei.ims.datacitation.test
+it.unipd.dei.ims.datacitation.training

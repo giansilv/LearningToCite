@@ -1,0 +1,25 @@
+#Wed Nov 18 11:51:37 CET 2015
+datacitation.citableunit.weightingFunction=SDN
+datacitation.groundtruth.pathsamples=1
+datacitation.citationtree.build-method=mixed
+datacitation.test.repetitions=10
+datacitation.citationtree.file=resources/citationTree-recall.xml
+datacitation.path.resultDir=/Users/silvello/Documents/Software_projects/datacitation/results
+datacitation.bestMatch.minRatio=0.66
+datacitation.training.optimizationMeasure=recall
+datacitation.groundtruth.file.extension=xml
+datacitation.path.rawFiles=/Users/silvello/Documents/EAD_collections/LoC2014
+datacitation.path.trainingset=/Users/silvello/Documents/datacitation_collections/LoC2014_groundTruth
+datacitation.trainingset.size=90
+datacitation.citation.separator=&&
+datacitation.groundtruth.filesamples=50
+datacitation.path.groundtruth.xslt.leafPaths=/Users/silvello/Documents/Software_projects/datacitation/resources/getLeavesPath.xslt
+datacitation.training.folds=5
+datacitation.citableunit.scoreThreshold=0.3
+datacitation.path.groundtruth.testfile=/Users/silvello/Documents/datacitation_collections/LoC2014_test_groundTruth.txt
+basex.dbname=XMLDB
+datacitation.path.trainingreferences=/Users/silvello/Documents/datacitation_collections/LoC2014_groundTruth_human_ref
+datacitation.citationtree.root=cite-tree
+datacitation.path.groundtruth.file=/Users/silvello/Documents/datacitation_collections/LoC2014_groundTruth.txt
+datacitation.path.testset=/Users/silvello/Documents/datacitation_collections/LoC2014_testData
+datacitation.path.groundtruth=/Users/silvello/Documents/datacitation_collections/LoC2014_groundTruth
