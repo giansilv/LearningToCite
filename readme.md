@@ -1,4 +1,4 @@
-# Learning to Cite (JASIST 2016)
+# Learning to Cite (JASIST 2017)
 
 This is the Java code implementing the Learning to Cite framework for XML data described in the following paper:
 
